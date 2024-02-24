@@ -2,6 +2,8 @@
 
 "This project is a web application that allows users to explore information about Star Wars characters, including their names, species, and affiliations with different factions. Users can search for specific characters, view details about each character, and navigate through different pages to discover more about the Star Wars universe."
 
+Deployed Link - https://veerendrachowdari.github.io/StarWarss/
+
 ## Installation
 
 To run this project locally, follow these steps:
