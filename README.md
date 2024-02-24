@@ -10,19 +10,12 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/VeerendraChowdari/StarWarss.git
 
-2 Navigate to the project directory.
-   cd StarWarss
+2 Navigate to the project directory === > cd StarWarss
 
-3. Install dependencies using npm.
-   npm install
+3. Install dependencies using npm ===> npm install
 
-4. Start the development server.
-   npm start
+4. Start the development server  ===> npm start
    
 6. Open http://localhost:3000 in your web browser to view the project.
 
- ***   Technologies Used
-React
-HTML
-CSS
-JavaScript.
+ ***   Technologies Used  ===> React  , HTML  , CSS  , JavaScript.
